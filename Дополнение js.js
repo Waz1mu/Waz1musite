@@ -1,0 +1,1 @@
+jQuery('body').append('<a href="https://vk.com/valadimirpivlov"> Мой ВК</a>')
